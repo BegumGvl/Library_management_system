@@ -4,3 +4,4 @@
 
 ## Features
 * Catalog Management (Search, Add, Remove books)
+* Patrons Accounts (Registration and Login)
