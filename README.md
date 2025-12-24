@@ -6,3 +6,4 @@
 * Catalog Management (Search, Add, Remove books)
 * Patrons Accounts (Registration and Login)
 * Circulations (Loans and due dates)
+* Storage (Save point and backup)
