@@ -1,0 +1,47 @@
+[
+    {
+        "isbn": "001",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": 1945,
+        "genre": "Political Satire",
+        "copies_owned": 4,
+        "copies_available": 3
+    },
+    {
+        "isbn": "002",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": "Fantastic",
+        "copies_owned": 5,
+        "copies_available": 5
+    },
+    {
+        "isbn": "003",
+        "title": "IT",
+        "author": "Stephen King",
+        "year": 1986,
+        "genre": "Horror",
+        "copies_owned": 3,
+        "copies_available": 1
+    },
+    {
+        "isbn": "004",
+        "title": "The Royal Game",
+        "author": "Stefan Zweig",
+        "year": 1941,
+        "genre": "Classic",
+        "copies_owned": 7,
+        "copies_available": 6
+    },
+    {
+        "isbn": "005",
+        "title": "Warriors into the Wild",
+        "author": "Erin Hunter",
+        "year": 2003,
+        "genre": "Fantasy",
+        "copies_owned": 2,
+        "copies_available": 2
+    }
+]

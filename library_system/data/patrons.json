@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Begum Guveli",
+        "email": "begum@mail.com",
+        "library_id": "LIB001",
+        "password": "111",
+        "borrowing_limit": 5,
+        "fines_owed": 0.0
+    },
+    {
+        "name": "Rahime Elifnaz",
+        "email": "rahime@mail.com",
+        "library_id": "LIB002",
+        "password": "222",
+        "borrowing_limit": 4,
+        "fines_owed": 1.0
+    },
+    {
+        "name": "Merve Defnebahar",
+        "email": "merve@mail.com",
+        "library_id": "LIB003",
+        "password": "333",
+        "borrowing_limit": 3,
+        "fines_owed": 2.0
+    },
+    {
+        "name": "Ayse Beren",
+        "email": "ayse@mail.com",
+        "library_id": "LIB004",
+        "password": "444",
+        "borrowing_limit": 5,
+        "fines_owed": 0.0
+    }
+]
